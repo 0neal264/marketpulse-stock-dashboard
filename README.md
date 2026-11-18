@@ -5,7 +5,7 @@
 
 MarketPulse is an interactive dashboard built with **Python** and **Streamlit**. Select a US-listed company, inspect its historical share-price data, explore technical indicators and risk measures, and compare it with the **S&P 500** and **OMXC25**. The dashboard is designed to make financial analytics easier to explore, including from a Danish investor's currency perspective.
 
-> **Live dashboard:** Coming soon — this project is being prepared for Streamlit Community Cloud deployment.
+
 
 > **Please note:** MarketPulse is an educational analytics project, not an investment service. Market data can be delayed, incomplete, or temporarily unavailable.
 
