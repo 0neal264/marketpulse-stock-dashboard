@@ -11,7 +11,7 @@ MarketPulse is an interactive dashboard built with **Python** and **Streamlit**.
 
 ## What can you do with MarketPulse?
 
-| Section | What it shows | In plain English |
+| Section | What it shows | What this means |
 |---|---|---|
 | **Overview** | Historical price chart, candlesticks, volume, moving averages, Bollinger Bands, RSI, and MACD | Explore how a share price has moved and how selected indicators describe its trend and momentum. |
 | **Technicals & Backtest** | Rule-based Bullish / Neutral / Bearish signals and a moving-average crossover backtest | See what a set of technical rules currently indicates, then compare a simple historical trading rule with buy-and-hold. |
